@@ -1,0 +1,21 @@
+
+.category-tree {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.category-item {
+    margin: 5px 0;
+    padding: 5px 10px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    cursor: move;
+}
+
+.sortable-placeholder {
+    background: #ddd;
+    border: 1px dashed #aaa;
+    height: 40px;
+    margin: 5px 0;
+}
