@@ -37,9 +37,18 @@ Multi-Level Category Sort is a powerful and user-friendly plugin for WooCommerce
 ---
 
 ## 🎯 Screenshots
-![First Layout(https://github.com/iAtifSyed/multi-level-category-sort/blob/main/screen1.png)
-![Befoe Sorting Layout(https://github.com/iAtifSyed/multi-level-category-sort/blob/main/screen2.png)
+
+![Before Sorting Layout(https://github.com/iAtifSyed/multi-level-category-sort/blob/main/screen2.png)
 ![After Sorting Layout(https://github.com/iAtifSyed/multi-level-category-sort/blob/main/screen3.png)
+
+
+1. **Admin Page UI**
+
+   ![Admin Page UI](https://github.com/iAtifSyed/multi-level-category-sort/blob/main/screen1.png)
+
+2. **Exported CSV Sample**
+
+   ![Exported CSV](https://raw.githubusercontent.com/iAtifSyed/mediaexport-master/refs/heads/main/screenshot2.png)
 
 
 
